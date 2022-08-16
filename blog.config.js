@@ -45,7 +45,7 @@ const BLOG = {
   CONTACT_EMAIL: 'mail@tangly1024.com',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
-  CONTACT_GITHUB: 'https://github.com/tangly1024',
+  CONTACT_GITHUB: 'https://github.com/DateMasamune',
   CONTACT_TELEGRAM: '',
 
   // 鼠标点击烟花特效
@@ -130,7 +130,7 @@ const BLOG = {
 
   // 无关紧要的配置
   AVATAR: '/avatar.png', // 作者头像，被notion中的ICON覆盖。如果没有ICON则取public目录下的avatar.png
-  TITLE: process.env.NEXT_PUBLIC_TITLE || 'NotionNext BLOG', // 站点标题 ，被notion中的页面标题覆盖
+  TITLE: process.env.NEXT_PUBLIC_TITLE || 'IceBerg SPACE', // 站点标题 ，被notion中的页面标题覆盖
   DESCRIPTION:
     process.env.NEXT_PUBLIC_DESCRIPTION || '这是一个由NotionNext生成的站点', // 站点描述，被notion中的页面描述覆盖
 
